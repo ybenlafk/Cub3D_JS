@@ -1,6 +1,7 @@
 # Cub3D
 
-Welcome to Cub3D! This is a JavaScript project that aims to create a 3D maze game inspired by the classic Wolfenstein 3D. In this game, players navigate through a maze-like environment and interact with objects while experiencing a 3D perspective.
+Welcome to Cub3D! Using the powerful raycasting technique, I've created a visually stunning 3D world that players can explore from a first-person perspective.
+In this game, you navigate through a complex maze of rooms and hallways, trying to find your way to the end while avoiding obstacles and solving puzzles.
 
 ## Features
 
